@@ -10,8 +10,8 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         for (int i = 0; i < 10; i++) {
-            System.out.println(""+ i + "1111122222");
-            
+            System.out.println(""+ i + "11111222223333333");
+
         }
     }
 }
