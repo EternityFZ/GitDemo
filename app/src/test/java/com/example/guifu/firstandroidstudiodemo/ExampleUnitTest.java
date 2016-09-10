@@ -12,8 +12,13 @@ public class ExampleUnitTest {
     public void addition_isCorrect() throws Exception {
         assertEquals(4, 2 + 2);
     }
+<<<<<<< HEAD
 	  @Test
     public void addition_isCorrect1() throws Exception {
+=======
+	 @Test
+    public void addition_isCorrect2() throws Exception {
+>>>>>>> feature/a
         assertEquals(4, 2 + 2);
     }
 }
